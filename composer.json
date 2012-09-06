@@ -1,0 +1,9 @@
+{
+	"name": "richardudovich/hello-world",
+	"repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/richardudovich/doctrine2"
+        }
+    ]
+}
